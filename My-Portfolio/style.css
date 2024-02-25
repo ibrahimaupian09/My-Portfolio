@@ -1,0 +1,162 @@
+div#container{
+    padding: 0%;
+    margin: 0;
+}
+header{
+    width: 30%;
+    height: 140px;
+    
+}
+header img{
+    width: 120px;
+    height: 140px;
+    clear: left;
+    float:left ;
+}
+header span#name{
+    font-weight: bold;
+    float: left;
+    color: rgb(211, 3, 3);
+    font-size: 2.0em;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+header span#name1{
+    color: rgb(211, 3, 3);
+    font-weight: bold;
+    font-size: 2.0em;
+    clear: both;
+    float: left;
+    padding-left: 183px;
+    top: -75px;
+    position: relative;
+}
+div#n{
+    height: 25px;
+}
+nav ul{
+    list-style-type: none;
+    padding-top: 4px;
+}
+nav ul li{
+    display: inline-block;
+    padding-left: 60px;
+    cursor: pointer;
+}
+div#edu{
+}
+div#edu h1{
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(211, 3, 3);
+    padding-right: 285px ;
+}
+table{
+    border: 2px solid black;
+    width:100%;
+}
+thead,th{
+    color: darkviolet;
+    border: 2px solid black;
+    background-color:rgb(240, 138, 138)
+}
+tbody,td{
+    border: 2px solid black;
+}
+div#pro h1{
+    font-size: 2.5em;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(211, 3, 3);
+}
+div#projects{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+div.card{
+    width: 364px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    border: 0.5px dotted rgb(222, 12, 127);
+}
+div.card:hover{
+    box-shadow: rgb(236, 127, 187) ;
+    cursor: pointer;
+}
+div.card h4{
+    font-weight: bold;
+    color: rgb(211, 3, 3);
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+div.card img{
+    
+    width: 250px;
+    height: 95px;
+}
+div.card p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+}
+div#skill{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+
+}
+/*div#skil h1{
+    font-size: 2.5em;
+    font-weight: bolder;
+    border: 2px solid black;
+    text-align: center;
+}
+*/
+h1#as{
+    font-size: 2.5em;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(211, 3, 3);
+}
+div#card{
+    width: 295.5px;
+    height:150px;
+}
+div#skill div.card img{
+    width: 310px;
+    height: 120px;
+}
+div#skill div.card h3{
+    font-weight: bolder;
+    font-size: 1.5em;
+    color: rgb(211, 3, 3);
+}
+footer h1{
+    font-size: 2.5em;
+    font-weight: bolder;
+    text-align: center;
+}
+footer{
+    width:100%;
+    height: 50px;
+
+}
+footer div#card{
+    width: 100%;
+    height: 50px;
+    clear: both;
+    float: left;
+}
+footer nav ul div#card li a img{
+    width: 40px;
+    height: 40px;
+    padding-left:200px;
+}
+div#c h1{
+    font-weight: bold;
+    font-size: 2.5em;
+    text-align: center;
+    color: rgb(211, 3, 3);
+}
